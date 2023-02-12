@@ -1,4 +1,3 @@
 # digitalimageprocessing
 some exercises in image processing
-
-and a image segmentation using convolutional neural network based on encoder-decoder architecture project
+image segmentation using convolutional neural network based on encoder-decoder architecture project
